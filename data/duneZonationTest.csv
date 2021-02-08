@@ -1,0 +1,12 @@
+Sample ID,Parent sample ID,Original grid ref,Site,Transect,Date,Gridref_calculated,Dune Zone Distance,Dune Previous Habitat term ID,Dune Previous Habitat term,Dune Current Habitat term ID,Dune Current Habitat term
+12020879,12020878,"51.603N, 1.110W",Baglan Burrows,Southern,14/10/2020,SU617896,,,,17795,Beach
+12020880,12020878,"51.603N, 1.110W",Baglan Burrows,Southern,14/10/2020,SU617896,20,17795,Beach,17797,Embryo Dune
+12020881,12020878,"51.602N, 1.110W",Baglan Burrows,Southern,14/10/2020,SU617896,50,17797,Embryo Dune,17801,Dune Slack
+12020882,12020878,"51.602N, 1.110W",Baglan Burrows,Southern,14/10/2020,SU61758966,50,17801,Dune Slack,17803,Scrub and Woodland
+12020883,12020878,"51.602N, 1.110W",Baglan Burrows,Southern,14/10/2020,SU617896,10,17797,Scrub and Woodland,17801,Dune Slack
+12020883,12020878,"51.602N, 1.110W",Baglan Burrows,Southern,14/10/2020,SU617896,10,,,17803,Dune Slack
+12703647,12703646,"51.603N, 1.111W",Baglan Burrows,Southern,02/02/2021,SU616896,,,,17795,Beach
+12703648,12703646,"51.603N, 1.111W",Baglan Burrows,Southern,02/02/2021,SU616896,10,17795,Beach,17798,Mobile Dune
+12703649,12703646,"51.603N, 1.111W",Baglan Burrows,Southern,02/02/2021,SU616896,30,17798,Mobile Dune,17800,Fixed Dune
+12703650,12703646,"51.603N, 1.111W",Baglan Burrows,Southern,02/02/2021,SU616896,10,17800,Fixed Dune,17801,Dune Slack
+12703651,12703646,"51.608N, 1.121W",Baglan Burrows,Southern,02/02/2021,SU610903,15,,,17801,Dune Slack

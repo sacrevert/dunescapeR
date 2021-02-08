@@ -1,0 +1,18 @@
+Sample ID,Parent sample ID,Original grid ref,Site,Fixed point label,Group,Date,Gridref_calculated,Water Depth
+11884532,11884531,"50.369N, 5.136W",Penhale,Dipwell 1,Penhale Dipwells,21/09/2020,SW7708256864,188
+11902160,11902159,"51.611N, 3.847W",Baglan Burrows,Dipwell 1,Coast dipwells,24/09/2020,SS72189191,305
+11902161,11902159,"51.609N, 3.844W",Baglan Burrows,Dipwell 2,Coast dipwells,24/09/2020,SS72419164,487
+11905216,11905215,"51.611N, 3.847W",Baglan Burrows,Dipwell 1,Coast dipwells,25/09/2020,SS72189191,478
+11905217,11905215,"51.609N, 3.844W",Baglan Burrows,Dipwell 2,Coast dipwells,25/09/2020,SS72419164,400
+12054875,12054874,"51.611N, 3.847W",Baglan Burrows,Dipwell 1,Coast dipwells,20/10/2020,SS72189191,433
+12054876,12054874,"51.609N, 3.844W",Baglan Burrows,Dipwell 2,Coast dipwells,20/10/2020,SS72419164,442
+12177136,12177135,"50.369N, 5.136W",Penhale,Dipwell 1,Penhale Dipwells,13/11/2020,SW7708256864,283
+11902160,11902159,"51.611N, 3.847W",Baglan Burrows,Dipwell 1,No coast dipwells,24/09/2020,SS72189191,200
+11902161,11902159,"51.609N, 3.844W",Baglan Burrows,Dipwell 2,No coast dipwells,24/09/2020,SS72419164,205
+11905216,11905215,"51.611N, 3.847W",Baglan Burrows,Dipwell 1,No coast dipwells,25/09/2020,SS72189191,205
+11905217,11905215,"51.609N, 3.844W",Baglan Burrows,Dipwell 2,No coast dipwells,25/09/2020,SS72419164,210
+12054875,12054874,"51.611N, 3.847W",Baglan Burrows,Dipwell 1,No coast dipwells,20/10/2020,SS72189191,300
+12054876,12054874,"51.609N, 3.844W",Baglan Burrows,Dipwell 2,No coast dipwells,20/10/2020,SS72419164,170
+11884532,11884531,"50.369N, 5.136W",Penhale,Dipwell 1,Penhale Dipwells,21/09/2018,SW7708256864,188
+11902160,11902159,"51.611N, 3.847W",Baglan Burrows,Dipwell 1,Coast dipwells,21/09/2018,SS72189191,305
+11902161,11902159,"51.609N, 3.844W",Baglan Burrows,Dipwell 2,Coast dipwells,21/09/2018,SS72419164,487

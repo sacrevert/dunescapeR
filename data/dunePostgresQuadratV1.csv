@@ -1,0 +1,53 @@
+Sample ID,Parent sample ID,Site,Fixed point location ID,Fixed point location,Original grid ref,Date,Occurrence ID,Health,Nitrogen,Grid ref calculated,Group,Species
+12015772,12015769,Baglan Burrows,248116,Dune c," 51.614N,  3.846W",13/10/2020,18030487,20, , SS72299223,,Jacobaea vulgaris
+12015772,12015769,Baglan Burrows,248116,Dune c," 51.614N,  3.846W",13/10/2020,18030487,20, , SS72299223,Visitor park,Jacobaea vulgaris
+12015772,12015769,Baglan Burrows,248116,Dune c," 51.614N,  3.846W",13/10/2020,18030486,2, , SS72299223,,Leymus arenarius
+12015772,12015769,Baglan Burrows,248116,Dune c," 51.614N,  3.846W",13/10/2020,18030486,2, , SS72299223,Visitor park,Leymus arenarius
+12015772,12015769,Baglan Burrows,248116,Dune c," 51.614N,  3.846W",13/10/2020,18030484,10, , SS72299223,,Lolium perenne
+12015772,12015769,Baglan Burrows,248116,Dune c," 51.614N,  3.846W",13/10/2020,18030484,10, , SS72299223,Visitor park,Lolium perenne
+12015772,12015769,Baglan Burrows,248116,Dune c," 51.614N,  3.846W",13/10/2020,18030482, , , SS72299223,,Salsola kali
+12015772,12015769,Baglan Burrows,248116,Dune c," 51.614N,  3.846W",13/10/2020,18030482, ,1, SS72299223,Visitor park,Salsola kali
+12015772,12015769,Baglan Burrows,248116,Dune c," 51.614N,  3.846W",13/10/2020,18030485, , , SS72299223,,Urtica dioica
+12015772,12015769,Baglan Burrows,248116,Dune c," 51.614N,  3.846W",13/10/2020,18030485, ,1, SS72299223,Visitor park,Urtica dioica
+12015772,12015769,Baglan Burrows,248116,Dune c," 51.614N,  3.846W",13/10/2020,18030483, , , SS72299223,,Tripleurospermum maritimum
+12015772,12015769,Baglan Burrows,248116,Dune c," 51.614N,  3.846W",13/10/2020,18030483, ,1, SS72299223,Visitor park,Tripleurospermum maritimum
+12074060,12074059,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099434,0, , SS723924,,Jacobaea vulgaris
+12074060,12074059,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099434,0, , SS723924,Transect strandline,Jacobaea vulgaris
+12074060,12074059,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099430,43, , SS723924,,Leymus arenarius
+12074060,12074059,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099430,43, , SS723924,Transect strandline,Leymus arenarius
+12074060,12074059,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099431,38.5, , SS723924,,Lolium perenne
+12074060,12074059,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099431,38.5, , SS723924,Transect strandline,Lolium perenne
+12074060,12074059,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099433,39, , SS723924,,Salsola kali
+12074060,12074059,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099433,39, , SS723924,Transect strandline,Salsola kali
+12074060,12074059,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099432, , , SS723924,,Tripleurospermum maritimum
+12074060,12074059,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099432, ,1, SS723924,Transect strandline,Tripleurospermum maritimum
+12074060,12074059,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099435, , , SS723924,,Urtica dioica
+12074060,12074059,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099435, ,2, SS723924,Transect strandline,Urtica dioica
+12074079,12074078,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099453, , , SS723924,,Jacobaea vulgaris
+12074079,12074078,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099453, ,1, SS723924,Transect strandline,Jacobaea vulgaris
+12074079,12074078,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099449, , , SS723924,,Leymus arenarius
+12074079,12074078,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099449, ,11, SS723924,Transect strandline,Leymus arenarius
+12074079,12074078,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099450, , , SS723924,,Lolium perenne
+12074079,12074078,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099450, ,1, SS723924,Transect strandline,Lolium perenne
+12074079,12074078,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099452, , , SS723924,,Salsola kali
+12074079,12074078,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099452, ,1, SS723924,Transect strandline,Salsola kali
+12074079,12074078,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099451, , , SS723924,,Tripleurospermum maritimum
+12074079,12074078,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099451, ,10, SS723924,Transect strandline,Tripleurospermum maritimum
+12074079,12074078,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099454, , , SS723924,,Urtica dioica
+12074079,12074078,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099454, ,1, SS723924,Transect strandline,Urtica dioica
+12074086,12074085,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099487, , , SS723924,,Jacobaea vulgaris
+12074086,12074085,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099487, ,11, SS723924,Transect strandline,Jacobaea vulgaris
+12074086,12074085,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099483,57.5, , SS723924,,Leymus arenarius
+12074086,12074085,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099483,57.5, , SS723924,Transect strandline,Leymus arenarius
+12074086,12074085,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099484, , , SS723924,,Lolium perenne
+12074086,12074085,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099484, ,1, SS723924,Transect strandline,Lolium perenne
+12074086,12074085,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099486, , , SS723924,,Salsola kali
+12074086,12074085,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099486, ,6, SS723924,Transect strandline,Salsola kali
+12074086,12074085,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099485, , , SS723924,,Tripleurospermum maritimum
+12074086,12074085,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099485, ,1, SS723924,Transect strandline,Tripleurospermum maritimum
+12074086,12074085,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099488, , , SS723924,,Urtica dioica
+12074086,12074085,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099488, ,1, SS723924,Transect strandline,Urtica dioica
+12074175,12074174,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099639,46.5, , SS723924,,Lolium perenne
+12074175,12074174,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099639,46.5, , SS723924,Transect strandline,Lolium perenne
+12074180,12074179,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099647,51, , SS723924,,Lolium perenne
+12074180,12074179,Baglan Burrows,248292,Dune d," 51.616N,  3.846W",23/10/2020,18099647,51, , SS723924,Transect strandline,Lolium perenne

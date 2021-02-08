@@ -44,7 +44,7 @@ ui <- shinyUI(fluidPage(
               br(),
               "This demo platform was originally designed by Dr O.L. Pescott (UKCEH).",
               "The code will be posted at his ",
-              tags$a(href="https://github.com/sacrevert", "GitHub.")
+              tags$a(href="https://github.com/sacrevert/dunescapeR", "GitHub.")
         ),
 
       tabPanel(h3("1. Dipwell data"),
